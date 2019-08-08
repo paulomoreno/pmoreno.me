@@ -1,0 +1,584 @@
+.version.contato /* version checker */
+{
+	color: #0000E8;
+	background-color: #727D29;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 340px;
+	min-height: 545.75px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding: 20px 20px 4.25px;
+}
+
+#pbuttonu124
+{
+	width: 0.01px;
+	margin-left: 14px;
+}
+
+#buttonu124
+{
+	z-index: 2;
+	width: 139px;
+	margin-right: -10000px;
+}
+
+#buttonu124.ButtonSelected
+{
+	width: 139px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u125
+{
+	z-index: 4;
+	height: 24px;
+	width: 110px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 29px;
+}
+
+#u145
+{
+	z-index: 7;
+	width: 17px;
+	height: 17px;
+	margin-right: -10000px;
+	left: 6px;
+}
+
+#buttonu124:hover #u145
+{
+	width: 17px;
+	height: 17px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu124.ButtonSelected #u145
+{
+	width: 17px;
+	height: 17px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u146
+{
+	z-index: 8;
+	width: 28px;
+	height: 16px;
+	margin-right: -10000px;
+	margin-top: 20px;
+}
+
+#buttonu124:hover #u146
+{
+	width: 28px;
+	height: 16px;
+	min-height: 0px;
+	margin: 20px -10000px 0px 0px;
+}
+
+#buttonu124.ButtonSelected #u146
+{
+	width: 28px;
+	height: 16px;
+	min-height: 0px;
+	margin: 20px -10000px 0px 0px;
+}
+
+#buttonu143
+{
+	z-index: 9;
+	width: 142px;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 170px;
+}
+
+#buttonu143:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 3px -10000px 0px 0px;
+}
+
+#buttonu143.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 3px -10000px 0px 0px;
+}
+
+#pu151
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 3px;
+}
+
+#u151
+{
+	z-index: 13;
+	width: 9px;
+	height: 9px;
+}
+
+#buttonu143:hover #u151
+{
+	width: 9px;
+	height: 9px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u147
+{
+	z-index: 10;
+	width: 9px;
+	height: 9px;
+	margin-top: 5px;
+}
+
+#buttonu143:hover #u147
+{
+	width: 9px;
+	height: 9px;
+	min-height: 0px;
+	margin: 5px 0px 0px;
+}
+
+#pu148
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 3px;
+	margin-left: 16px;
+}
+
+#u148
+{
+	z-index: 11;
+	width: 9px;
+	height: 9px;
+}
+
+#buttonu143.ButtonSelected #u151,#buttonu143:hover #u148
+{
+	width: 9px;
+	height: 9px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu143.ButtonSelected #u148
+{
+	width: 9px;
+	height: 9px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u150
+{
+	z-index: 12;
+	width: 9px;
+	height: 9px;
+	margin-top: 5px;
+}
+
+#buttonu143.ButtonSelected #u147,#buttonu143:hover #u150
+{
+	width: 9px;
+	height: 9px;
+	min-height: 0px;
+	margin: 5px 0px 0px;
+}
+
+#buttonu143.ButtonSelected #u150
+{
+	width: 9px;
+	height: 9px;
+	min-height: 0px;
+	margin: 5px 0px 0px;
+}
+
+#u144
+{
+	z-index: 15;
+	height: 24px;
+	width: 110px;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 32px;
+}
+
+#buttonu1791
+{
+	z-index: 26;
+	width: 135px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 0px 0px 10px 10px ;
+	padding-right: 1px;
+	padding-bottom: 1.3500000000001648px;
+	margin-left: 102px;
+	margin-top: 14px;
+	position: relative;
+}
+
+#buttonu1791.ButtonSelected
+{
+	width: 135px;
+	min-height: 0px;
+	margin: 14px 0px 0px 102px;
+}
+
+#u1795-4
+{
+	z-index: 27;
+	width: 134px;
+	min-height: 11px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #242424;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1793
+{
+	z-index: 31;
+	width: 120px;
+	border-style: none;
+	border-color: transparent;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 5px;
+	background: transparent url("../../images/camada-4%402x.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u1792
+{
+	z-index: 32;
+	width: 120px;
+	height: 120px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F02685;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu1791:hover #u1792
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	width: 120px;
+	height: 120px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1794
+{
+	z-index: 33;
+	width: 130px;
+	height: 130px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #242424;
+	background-color: transparent;
+	border-radius: 100px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
+}
+
+#buttonu1791:hover #u1794
+{
+	border-color: #F02685;
+	width: 130px;
+	height: 130px;
+	min-height: 0px;
+	margin: -1px -10000px -1px 0px;
+}
+
+#u1808-10
+{
+	z-index: 34;
+	width: 340px;
+	min-height: 94px;
+	background-color: transparent;
+	color: #242424;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u1808-2,#u1808-3
+{
+	text-align: center;
+}
+
+#u1808-5,#u1808-6,#u1808-8
+{
+	text-align: justify;
+}
+
+#buttonu1774
+{
+	z-index: 18;
+	width: 135px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 0px 0px 10px 10px ;
+	padding-right: 1px;
+	padding-bottom: 1.3500000000001364px;
+	margin-left: 102px;
+	margin-top: 29px;
+	position: relative;
+}
+
+#buttonu1774.ButtonSelected
+{
+	width: 135px;
+	min-height: 0px;
+	margin: 29px 0px 0px 102px;
+}
+
+#u1775-4
+{
+	z-index: 19;
+	width: 134px;
+	min-height: 11px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #242424;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#buttonu1791.ButtonSelected #u1795-4,#buttonu1774.ButtonSelected #u1775-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 11px;
+	width: 134px;
+	margin: 0px;
+}
+
+#pu1793,#pu1776
+{
+	width: 0.01px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+#u1776
+{
+	z-index: 23;
+	width: 120px;
+	border-style: none;
+	border-color: transparent;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 5px;
+	background: transparent url("../../images/camada-6%402x.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1774:hover #u1776
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	width: 120px;
+	min-height: 0px;
+	margin: 5px -10000px 0px 0px;
+	background-size: cover;
+}
+
+#buttonu1791.ButtonSelected #u1793,#buttonu1774.ButtonSelected #u1776
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	width: 120px;
+	min-height: 0px;
+	margin: 5px -10000px 0px 0px;
+	background-size: cover;
+}
+
+#u1777
+{
+	z-index: 24;
+	width: 120px;
+	height: 120px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #F02685;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu1774:hover #u1777
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	width: 120px;
+	height: 120px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu1791.ButtonSelected #u1792,#buttonu1774.ButtonSelected #u1777
+{
+	opacity: 0.1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
+	filter: alpha(opacity=10);
+	width: 120px;
+	height: 120px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1778
+{
+	z-index: 25;
+	width: 130px;
+	height: 130px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #F02685;
+	background-color: transparent;
+	border-radius: 100px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
+}
+
+#buttonu1791.ButtonSelected #u1794,#buttonu1774.ButtonSelected #u1778
+{
+	border-color: #DCDCDC;
+	width: 130px;
+	height: 130px;
+	min-height: 0px;
+	margin: -1px -10000px -1px 0px;
+}
+
+#u1809-4
+{
+	z-index: 44;
+	width: 340px;
+	min-height: 9px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #242424;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u1810-4
+{
+	z-index: 48;
+	width: 215px;
+	min-height: 6px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #E21E79;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	margin-left: 62px;
+	margin-top: 8px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

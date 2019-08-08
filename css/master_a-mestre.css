@@ -1,0 +1,175 @@
+#u2882
+{
+	position: relative;
+	background: transparent url("../images/logo-pmoreno%403x.png") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2882
+{
+	background-image: url("../images/logo-pmoreno%403x_2x.png");
+}
+
+#u2889_states
+{
+	vertical-align: top;
+	background: url("../images/u2889_states.png") no-repeat 0px 0px;
+}
+
+#u2889:hover #u2889_states
+{
+	background: url("../images/u2889_states-r.png") no-repeat 0px 0px;
+}
+
+#u2889.MuseLinkActive #u2889_states
+{
+	background: url("../images/u2889_states-a.png") no-repeat 0px 0px;
+}
+
+.hidpi #u2889.MuseLinkActive #u2889_states
+{
+	background-image: url("../images/u2889_states_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-image: url("../images/u2889_states-a_2x.png");
+	background-size: 77px 25px;
+}
+
+.hidpi #u2889:hover #u2889_states
+{
+	background-image: url("../images/u2889_states-r_2x.png");
+	background-size: 77px 25px;
+}
+
+#u2889,#u2888
+{
+	position: relative;
+}
+
+#u2888_states
+{
+	vertical-align: top;
+	background: url("../images/u2888_states.png") no-repeat 0px 0px;
+}
+
+#u2888:hover #u2888_states
+{
+	background: url("../images/u2888_states-r.png") no-repeat 0px 0px;
+}
+
+#u2888.MuseLinkActive #u2888_states
+{
+	background: url("../images/u2888_states-a.png") no-repeat 0px 0px;
+}
+
+.hidpi #u2888.MuseLinkActive #u2888_states
+{
+	background-image: url("../images/u2888_states_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-image: url("../images/u2888_states-a_2x.png");
+	background-size: 78px 24px;
+}
+
+.hidpi #u2888:hover #u2888_states
+{
+	background-image: url("../images/u2888_states-r_2x.png");
+	background-size: 78px 24px;
+}
+
+#u2940
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2249
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: relative;
+	background: transparent url("../images/fb.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u2249:hover
+{
+	background: transparent url("../images/fbrosa.png") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u2249
+{
+	background-image: url("../images/fb_2x.png");
+}
+
+.hidpi #u2249:hover
+{
+	background-image: url("../images/fbrosa_2x.png");
+}
+
+#u2224-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	text-align: right;
+	font-size: 12px;
+	color: #242424;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2225-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	text-align: left;
+	font-size: 12px;
+	color: #E21E79;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2225-4:hover p
+{
+	color: #F7931E;
+	visibility: inherit;
+}
+

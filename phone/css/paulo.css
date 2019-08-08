@@ -1,0 +1,445 @@
+.version.paulo /* version checker */
+{
+	color: #000016;
+	background-color: #1A7EB5;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 531px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 20px;
+	padding-bottom: 19px;
+}
+
+#pbuttonu124
+{
+	width: 0.01px;
+	margin-left: 34px;
+}
+
+#buttonu124
+{
+	z-index: 2;
+	width: 139px;
+	margin-right: -10000px;
+}
+
+#buttonu124.ButtonSelected
+{
+	width: 139px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u125
+{
+	z-index: 4;
+	height: 24px;
+	width: 110px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 29px;
+}
+
+#u145
+{
+	z-index: 7;
+	width: 17px;
+	height: 17px;
+	margin-right: -10000px;
+	left: 6px;
+}
+
+#buttonu124:hover #u145
+{
+	width: 17px;
+	height: 17px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu124.ButtonSelected #u145
+{
+	width: 17px;
+	height: 17px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u146
+{
+	z-index: 8;
+	width: 28px;
+	height: 16px;
+	margin-right: -10000px;
+	margin-top: 20px;
+}
+
+#buttonu124:hover #u146
+{
+	width: 28px;
+	height: 16px;
+	min-height: 0px;
+	margin: 20px -10000px 0px 0px;
+}
+
+#buttonu124.ButtonSelected #u146
+{
+	width: 28px;
+	height: 16px;
+	min-height: 0px;
+	margin: 20px -10000px 0px 0px;
+}
+
+#buttonu143
+{
+	z-index: 9;
+	width: 142px;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 170px;
+}
+
+#buttonu143:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 3px -10000px 0px 0px;
+}
+
+#buttonu143.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 3px -10000px 0px 0px;
+}
+
+#pu151
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 3px;
+}
+
+#u151
+{
+	z-index: 13;
+	width: 9px;
+	height: 9px;
+}
+
+#buttonu143:hover #u151
+{
+	width: 9px;
+	height: 9px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u147
+{
+	z-index: 10;
+	width: 9px;
+	height: 9px;
+	margin-top: 5px;
+}
+
+#buttonu143:hover #u147
+{
+	width: 9px;
+	height: 9px;
+	min-height: 0px;
+	margin: 5px 0px 0px;
+}
+
+#pu148
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 3px;
+	margin-left: 16px;
+}
+
+#u148
+{
+	z-index: 11;
+	width: 9px;
+	height: 9px;
+}
+
+#buttonu143.ButtonSelected #u151,#buttonu143:hover #u148
+{
+	width: 9px;
+	height: 9px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#buttonu143.ButtonSelected #u148
+{
+	width: 9px;
+	height: 9px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u150
+{
+	z-index: 12;
+	width: 9px;
+	height: 9px;
+	margin-top: 5px;
+}
+
+#buttonu143.ButtonSelected #u147,#buttonu143:hover #u150
+{
+	width: 9px;
+	height: 9px;
+	min-height: 0px;
+	margin: 5px 0px 0px;
+}
+
+#buttonu143.ButtonSelected #u150
+{
+	width: 9px;
+	height: 9px;
+	min-height: 0px;
+	margin: 5px 0px 0px;
+}
+
+#u144
+{
+	z-index: 15;
+	height: 24px;
+	width: 110px;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 32px;
+}
+
+#pu1337
+{
+	width: 0.01px;
+	margin-left: 11px;
+	margin-top: 32px;
+}
+
+#u1337
+{
+	z-index: 23;
+	width: 170px;
+	height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../../images/captura%20de%20tela%202015-03-24%20%c3%a0s%20020631.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u1337
+{
+	background-image: url("../../images/captura%20de%20tela%202015-03-24%20%c3%a0s%20020631_2x.jpg");
+}
+
+#u1326
+{
+	z-index: 24;
+	width: 1px;
+	height: 60px;
+	background-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	left: 179px;
+}
+
+#pu1325-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 9px;
+	margin-left: 189px;
+}
+
+#u1325-4
+{
+	z-index: 19;
+	width: 170px;
+	min-height: 28px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1495-4
+{
+	z-index: 38;
+	width: 170px;
+	min-height: 14px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	color: #E21E79;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#pu1338
+{
+	width: 0.01px;
+	margin-top: 10px;
+}
+
+#u1338
+{
+	z-index: 18;
+	height: 40px;
+	background-color: #4FC21E;
+	opacity: 0.88;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=88)";
+	filter: alpha(opacity=88);
+}
+
+#u1338-bw
+{
+	z-index: 18;
+	height: 40px;
+}
+
+#u1328-4
+{
+	z-index: 30;
+	width: 24px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 52px;
+}
+
+#u1327-4
+{
+	z-index: 34;
+	width: 32px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 10px;
+}
+
+#u1332-4
+{
+	z-index: 26;
+	width: 309px;
+	min-height: 6px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: left;
+	font-size: 12px;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	margin-left: 35px;
+	margin-top: 26px;
+	position: relative;
+}
+
+#u1331
+{
+	z-index: 25;
+	width: 306px;
+	height: 147px;
+	border-color: #242424;
+	margin-left: 35px;
+	margin-top: 9px;
+	position: relative;
+	background: transparent url("../../images/captura%20de%20tela%202015-03-24%20%c3%a0s%20020713-u1331-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u1331
+{
+	background-image: url("../../images/captura%20de%20tela%202015-03-24%20%c3%a0s%20020713-u1331-fr_2x.jpg");
+}
+
+#u1507
+{
+	z-index: 42;
+	width: 306px;
+	height: 147px;
+	border-color: #242424;
+	margin-left: 35px;
+	margin-top: 9px;
+	position: relative;
+	background: transparent url("../../images/captura%20de%20tela%202015-03-24%20%c3%a0s%20020726-u1507-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u1507
+{
+	background-image: url("../../images/captura%20de%20tela%202015-03-24%20%c3%a0s%20020726-u1507-fr_2x.jpg");
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

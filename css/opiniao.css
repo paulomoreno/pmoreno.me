@@ -1,0 +1,478 @@
+.version.opiniao /* version checker */
+{
+	color: #0000F5;
+	background-color: #674E61;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -20px;
+	margin-bottom: -32px;
+	width: 0.01px;
+}
+
+#pu2882
+{
+	width: 0.01px;
+	margin-left: 20px;
+}
+
+#u2882
+{
+	z-index: 3;
+	width: 40px;
+	height: 40px;
+	margin-right: -10000px;
+}
+
+#u2889
+{
+	z-index: 9;
+	width: 77px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 733px;
+}
+
+#u2889_states
+{
+	height: 25px;
+	width: 77px;
+}
+
+#u2888
+{
+	z-index: 5;
+	width: 78px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 844px;
+}
+
+#u2888_states
+{
+	height: 24px;
+	width: 78px;
+}
+
+#pu2621
+{
+	width: 0.01px;
+	margin-left: 301px;
+	margin-top: 42px;
+}
+
+#u2621
+{
+	z-index: 26;
+	width: 170px;
+	height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/logo%20opini%c3%a3o_03%20nuvem2.png") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2621
+{
+	background-image: url("../images/logo%20opini%c3%a3o_03%20nuvem2_2x.png");
+}
+
+#u2622
+{
+	z-index: 27;
+	width: 1px;
+	height: 60px;
+	background-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	left: 179px;
+}
+
+#u2620-4
+{
+	z-index: 22;
+	width: 170px;
+	min-height: 28px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 199px;
+}
+
+#pu2619
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 10px;
+}
+
+#u2619
+{
+	z-index: 21;
+	height: 40px;
+	background-color: #BA322F;
+	opacity: 0.88;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=88)";
+	filter: alpha(opacity=88);
+}
+
+#u2619-bw
+{
+	z-index: 21;
+	height: 40px;
+}
+
+#u2627-4
+{
+	z-index: 30;
+	width: 24px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 510px;
+}
+
+#u2628-4
+{
+	z-index: 34;
+	width: 32px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 468px;
+}
+
+#u2629-4
+{
+	z-index: 38;
+	width: 78px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 544px;
+}
+
+#u2630-4
+{
+	z-index: 42;
+	width: 60px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 632px;
+}
+
+#u2637-4
+{
+	z-index: 61;
+	width: 920px;
+	min-height: 5px;
+	background-color: transparent;
+	color: #242424;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: Courier New, Courier, monospace;
+	margin-left: 20px;
+	margin-top: 40px;
+	position: relative;
+}
+
+#pu2632-4
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: 26px;
+}
+
+#u2632-4
+{
+	z-index: 47;
+	width: 300px;
+	min-height: 6px;
+	background-color: transparent;
+	line-height: 12px;
+	text-align: center;
+	font-size: 10px;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2633-4
+{
+	z-index: 51;
+	width: 300px;
+	min-height: 6px;
+	background-color: transparent;
+	line-height: 12px;
+	text-align: center;
+	font-size: 10px;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 310px;
+}
+
+#u2634-4
+{
+	z-index: 55;
+	width: 300px;
+	min-height: 6px;
+	background-color: transparent;
+	line-height: 12px;
+	text-align: center;
+	font-size: 10px;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 620px;
+}
+
+#pu2624
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: 14px;
+}
+
+#u2624
+{
+	z-index: 28;
+	width: 300px;
+	height: 420px;
+	border-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/capa01.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2624
+{
+	background-image: url("../images/capa01_2x.jpg");
+}
+
+#u2625
+{
+	z-index: 29;
+	width: 300px;
+	height: 420px;
+	border-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	left: 310px;
+	background: transparent url("../images/capa07.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2625
+{
+	background-image: url("../images/capa07_2x.jpg");
+}
+
+#u2631
+{
+	z-index: 46;
+	width: 300px;
+	height: 420px;
+	border-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	left: 620px;
+	background: transparent url("../images/capa11.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u2638-4
+{
+	z-index: 65;
+	width: 920px;
+	min-height: 5px;
+	background-color: transparent;
+	color: #242424;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: Courier New, Courier, monospace;
+	margin-left: 20px;
+	margin-top: 52px;
+	position: relative;
+}
+
+#pu2635
+{
+	width: 0.01px;
+	margin-left: 197px;
+	margin-top: 28px;
+}
+
+#u2635
+{
+	z-index: 59;
+	width: 228px;
+	height: 308px;
+	border-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/concurso%20opini%c3%a3o%20sementes.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2635
+{
+	background-image: url("../images/concurso%20opini%c3%a3o%20sementes_2x.jpg");
+}
+
+#u2636
+{
+	z-index: 60;
+	width: 355px;
+	height: 194px;
+	border-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 57px;
+	left: 265px;
+	background: transparent url("../images/blog.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2636
+{
+	background-image: url("../images/blog_2x.jpg");
+}
+
+#u2940
+{
+	z-index: 12;
+	width: 82px;
+	min-height: 50px;
+	margin-left: 20px;
+	margin-top: 7px;
+}
+
+#pu2249
+{
+	width: 0.01px;
+	margin-left: 256px;
+	margin-top: 7px;
+}
+
+#u2249
+{
+	z-index: 2;
+	width: 58px;
+	height: 30px;
+	margin-right: -10000px;
+}
+
+#u2249:hover
+{
+	width: 58px;
+	height: 30px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2224-4
+{
+	z-index: 13;
+	width: 164px;
+	min-height: 9px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 61px;
+}
+
+#u2225-4
+{
+	z-index: 17;
+	width: 160px;
+	min-height: 6px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 228px;
+}
+
+#u2225-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 6px;
+	width: 160px;
+	margin: 8px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

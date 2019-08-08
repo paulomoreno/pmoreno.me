@@ -1,0 +1,354 @@
+.version.atletica /* version checker */
+{
+	color: #000009;
+	background-color: #8311EF;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -20px;
+	margin-bottom: -32px;
+	width: 0.01px;
+}
+
+#pu2882
+{
+	width: 0.01px;
+	margin-left: 20px;
+}
+
+#u2882
+{
+	z-index: 3;
+	width: 40px;
+	height: 40px;
+	margin-right: -10000px;
+}
+
+#u2889
+{
+	z-index: 9;
+	width: 77px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 733px;
+}
+
+#u2889_states
+{
+	height: 25px;
+	width: 77px;
+}
+
+#u2888
+{
+	z-index: 5;
+	width: 78px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 844px;
+}
+
+#u2888_states
+{
+	height: 24px;
+	width: 78px;
+}
+
+#pu2599
+{
+	width: 0.01px;
+	margin-left: 299px;
+	margin-top: 42px;
+}
+
+#u2599
+{
+	z-index: 26;
+	width: 170px;
+	height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/atleticalogo.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2599
+{
+	background-image: url("../images/atleticalogo_2x.jpg");
+}
+
+#u2600
+{
+	z-index: 27;
+	width: 1px;
+	height: 60px;
+	background-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	left: 179px;
+}
+
+#u2598-4
+{
+	z-index: 22;
+	width: 170px;
+	min-height: 2px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 199px;
+}
+
+#pu2597
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 10px;
+}
+
+#u2597
+{
+	z-index: 21;
+	height: 40px;
+	background-color: #BA322F;
+	opacity: 0.88;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=88)";
+	filter: alpha(opacity=88);
+}
+
+#u2597-bw
+{
+	z-index: 21;
+	height: 40px;
+}
+
+#u2605-4
+{
+	z-index: 30;
+	width: 78px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 486px;
+}
+
+#u2606-4
+{
+	z-index: 34;
+	width: 60px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 574px;
+}
+
+#u2607-4
+{
+	z-index: 38;
+	width: 32px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 642px;
+}
+
+#u2609-4
+{
+	z-index: 43;
+	width: 920px;
+	min-height: 5px;
+	background-color: transparent;
+	color: #242424;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: Courier New, Courier, monospace;
+	margin-left: 20px;
+	margin-top: 40px;
+	position: relative;
+}
+
+#pu2603
+{
+	width: 0.01px;
+	margin-left: 43px;
+	margin-top: 13px;
+}
+
+#u2603
+{
+	z-index: 29;
+	width: 270px;
+	height: 189px;
+	border-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 43px;
+	background: transparent url("../images/captura%20de%20tela%202015-03-24%20%c3%a0s%20021819.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2603
+{
+	background-image: url("../images/captura%20de%20tela%202015-03-24%20%c3%a0s%20021819_2x.jpg");
+}
+
+#u2608
+{
+	z-index: 42;
+	width: 270px;
+	height: 189px;
+	border-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 43px;
+	left: 297px;
+	background: transparent url("../images/captura%20de%20tela%202015-03-24%20%c3%a0s%20021828.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2608
+{
+	background-image: url("../images/captura%20de%20tela%202015-03-24%20%c3%a0s%20021828_2x.jpg");
+}
+
+#u2602
+{
+	z-index: 28;
+	width: 295px;
+	height: 274px;
+	border-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	left: 595px;
+	background: transparent url("../images/atletica%20join%20the%20pack.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2602
+{
+	background-image: url("../images/atletica%20join%20the%20pack_2x.jpg");
+}
+
+#u2940
+{
+	z-index: 12;
+	width: 82px;
+	min-height: 50px;
+	margin-left: 20px;
+	margin-top: 8px;
+}
+
+#pu2249
+{
+	width: 0.01px;
+	margin-left: 256px;
+	margin-top: 6px;
+}
+
+#u2249
+{
+	z-index: 2;
+	width: 58px;
+	height: 30px;
+	margin-right: -10000px;
+}
+
+#u2249:hover
+{
+	width: 58px;
+	height: 30px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2224-4
+{
+	z-index: 13;
+	width: 164px;
+	min-height: 9px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 61px;
+}
+
+#u2225-4
+{
+	z-index: 17;
+	width: 160px;
+	min-height: 6px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 228px;
+}
+
+#u2225-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 6px;
+	width: 160px;
+	margin: 8px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

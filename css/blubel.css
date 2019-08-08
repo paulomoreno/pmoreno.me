@@ -1,0 +1,489 @@
+.version.blubel /* version checker */
+{
+	color: #000006;
+	background-color: #C51F7D;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 499.88917525773184px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -20px;
+	margin-bottom: -32px;
+	width: 0.01px;
+}
+
+#pu2882
+{
+	width: 0.01px;
+	margin-left: 20px;
+}
+
+#u2882
+{
+	z-index: 3;
+	width: 40px;
+	height: 40px;
+	margin-right: -10000px;
+}
+
+#u2889
+{
+	z-index: 9;
+	width: 77px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 733px;
+}
+
+#u2889_states
+{
+	height: 25px;
+	width: 77px;
+}
+
+#u2888
+{
+	z-index: 5;
+	width: 78px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 844px;
+}
+
+#u2888_states
+{
+	height: 24px;
+	width: 78px;
+}
+
+#pu2097
+{
+	width: 0.01px;
+	margin-left: 291px;
+	margin-top: 42px;
+}
+
+#u2097
+{
+	z-index: 26;
+	width: 170px;
+	height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/logo.png") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2097
+{
+	background-image: url("../images/logo_2x.png");
+}
+
+#u2098
+{
+	z-index: 27;
+	width: 1px;
+	height: 60px;
+	background-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	left: 189px;
+}
+
+#pu2096-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	margin-left: 209px;
+}
+
+#u2096-4
+{
+	z-index: 22;
+	width: 170px;
+	min-height: 28px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2105-4
+{
+	z-index: 33;
+	width: 170px;
+	min-height: 14px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	color: #E21E79;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2105-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 14px;
+	width: 170px;
+	margin: 0px;
+}
+
+#u2105-4:hover p
+{
+	color: #FBB03B;
+	visibility: inherit;
+}
+
+#pu2107
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 10px;
+}
+
+#u2107
+{
+	z-index: 37;
+	height: 40px;
+	background-color: #242424;
+	opacity: 0.88;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=88)";
+	filter: alpha(opacity=88);
+}
+
+#u2107-bw
+{
+	z-index: 37;
+	height: 40px;
+}
+
+#u2109-4
+{
+	z-index: 38;
+	width: 32px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 471px;
+}
+
+#u2110-4
+{
+	z-index: 42;
+	width: 60px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 513px;
+}
+
+#u2111-4
+{
+	z-index: 46;
+	width: 60px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 583px;
+}
+
+#u2112-4
+{
+	z-index: 50;
+	width: 36px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 653px;
+}
+
+#u2121-4
+{
+	z-index: 58;
+	width: 920px;
+	min-height: 5px;
+	background-color: transparent;
+	color: #242424;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: Courier New, Courier, monospace;
+	margin-left: 20px;
+	margin-top: 59px;
+	position: relative;
+}
+
+#pu2100
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: 57px;
+}
+
+#u2100
+{
+	z-index: 29;
+	width: 306px;
+	height: 125px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/captura%20de%20tela%202015-03-23%20%c3%a0s%20185711.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u2100
+{
+	background-image: url("../images/captura%20de%20tela%202015-03-23%20%c3%a0s%20185711_2x.jpg");
+}
+
+#u2099
+{
+	z-index: 28;
+	width: 308px;
+	height: 125px;
+	position: relative;
+	margin-right: -10000px;
+	left: 306px;
+	background: transparent url("../images/captura%20de%20tela%202015-03-23%20%c3%a0s%20182557.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+.hidpi #u2099
+{
+	background-image: url("../images/captura%20de%20tela%202015-03-23%20%c3%a0s%20182557_2x.jpg");
+}
+
+#u2095
+{
+	z-index: 21;
+	width: 306px;
+	height: 125px;
+	position: relative;
+	margin-right: -10000px;
+	left: 614px;
+	background: transparent url("../images/screeny%20video%2023-03-2015%20181202.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u2120-4
+{
+	z-index: 54;
+	width: 920px;
+	min-height: 6px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: Courier New, Courier, monospace;
+	margin-left: 20px;
+	margin-top: 49px;
+	position: relative;
+}
+
+#pu2104
+{
+	width: 0.01px;
+	margin-left: 214px;
+	margin-top: 54px;
+}
+
+#u2104
+{
+	z-index: 32;
+	width: 139px;
+	height: 244px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #242424;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/10%20login-ieu2104-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/10%20login.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+.hidpi #u2104
+{
+	background-image: url("../images/10%20login_2x.jpg");
+}
+
+#u2103
+{
+	z-index: 31;
+	width: 139px;
+	height: 244px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #242424;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 196px;
+	background: transparent url("../images/06%20lista%20profissionais-ieu2103-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/06%20lista%20profissionais.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+.hidpi #u2103
+{
+	background-image: url("../images/06%20lista%20profissionais_2x.jpg");
+}
+
+#u2102
+{
+	z-index: 30;
+	width: 139px;
+	height: 244px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #242424;
+	border-radius: 10px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 391px;
+	background: transparent url("../images/08%20horariob-ieu2102-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/08%20horariob.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+.hidpi #u2102
+{
+	background-image: url("../images/08%20horariob_2x.jpg");
+}
+
+#u2940
+{
+	z-index: 12;
+	width: 82px;
+	min-height: 50px;
+	margin-left: 20px;
+	margin-top: 9px;
+}
+
+#pu2249
+{
+	width: 0.01px;
+	margin-left: 256px;
+	margin-top: 6px;
+}
+
+#u2249
+{
+	z-index: 2;
+	width: 58px;
+	height: 30px;
+	margin-right: -10000px;
+}
+
+#u2249:hover
+{
+	width: 58px;
+	height: 30px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2224-4
+{
+	z-index: 13;
+	width: 164px;
+	min-height: 9px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 61px;
+}
+
+#u2225-4
+{
+	z-index: 17;
+	width: 160px;
+	min-height: 6px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 228px;
+}
+
+#u2225-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 6px;
+	width: 160px;
+	margin: 8px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

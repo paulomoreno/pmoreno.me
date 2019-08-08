@@ -1,0 +1,375 @@
+.version.nano /* version checker */
+{
+	color: #00000E;
+	background-color: #67DF3F;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -20px;
+	margin-bottom: -32px;
+	width: 0.01px;
+}
+
+#pu2882
+{
+	width: 0.01px;
+	margin-left: 20px;
+}
+
+#u2882
+{
+	z-index: 3;
+	width: 40px;
+	height: 40px;
+	margin-right: -10000px;
+}
+
+#u2889
+{
+	z-index: 9;
+	width: 77px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 733px;
+}
+
+#u2889_states
+{
+	height: 25px;
+	width: 77px;
+}
+
+#u2888
+{
+	z-index: 5;
+	width: 78px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 844px;
+}
+
+#u2888_states
+{
+	height: 24px;
+	width: 78px;
+}
+
+#pu2427
+{
+	width: 0.01px;
+	margin-left: 294px;
+	margin-top: 42px;
+}
+
+#u2427
+{
+	z-index: 28;
+	width: 170px;
+	height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/nano%402x.png") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2427
+{
+	background-image: url("../images/nano%402x_2x.png");
+}
+
+#u2428
+{
+	z-index: 29;
+	width: 1px;
+	height: 60px;
+	background-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	left: 189px;
+}
+
+#u2426-6
+{
+	z-index: 22;
+	width: 170px;
+	min-height: 28px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 209px;
+}
+
+#pu2425
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 10px;
+}
+
+#u2425
+{
+	z-index: 21;
+	height: 40px;
+	background-color: #BA322F;
+	opacity: 0.88;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=88)";
+	filter: alpha(opacity=88);
+}
+
+#u2425-bw
+{
+	z-index: 21;
+	height: 40px;
+}
+
+#u2434-4
+{
+	z-index: 33;
+	width: 24px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 511px;
+}
+
+#u2435-4
+{
+	z-index: 37;
+	width: 32px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 469px;
+}
+
+#u2436-4
+{
+	z-index: 41;
+	width: 78px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 545px;
+}
+
+#u2437-4
+{
+	z-index: 45;
+	width: 60px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 633px;
+}
+
+#u2441-4
+{
+	z-index: 49;
+	width: 920px;
+	min-height: 5px;
+	background-color: transparent;
+	color: #242424;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: Courier New, Courier, monospace;
+	margin-left: 20px;
+	margin-top: 30px;
+	position: relative;
+}
+
+#pu2430
+{
+	width: 0.01px;
+	margin-left: 66px;
+	margin-top: 30px;
+}
+
+#u2430
+{
+	z-index: 30;
+	width: 330px;
+	height: 800px;
+	border-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	background: transparent url("../images/site%20nano.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2430
+{
+	background-image: url("../images/site%20nano_2x.jpg");
+}
+
+#u2431
+{
+	z-index: 31;
+	width: 330px;
+	height: 800px;
+	border-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	left: 343px;
+	background: transparent url("../images/site%20nano2.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2431
+{
+	background-image: url("../images/site%20nano2_2x.jpg");
+}
+
+#u2432
+{
+	z-index: 32;
+	width: 140px;
+	height: 79px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C8C8C8;
+	border-radius: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 272px;
+	left: 686px;
+	background: transparent url("../images/cv_pedro.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2432
+{
+	background-image: url("../images/cv_pedro_2x.jpg");
+}
+
+#u2940
+{
+	z-index: 12;
+	width: 82px;
+	min-height: 50px;
+	margin-left: 20px;
+	margin-top: 7px;
+}
+
+#pu2249
+{
+	width: 0.01px;
+	margin-left: 256px;
+	margin-top: 7px;
+}
+
+#u2249
+{
+	z-index: 2;
+	width: 58px;
+	height: 30px;
+	margin-right: -10000px;
+}
+
+#u2249:hover
+{
+	width: 58px;
+	height: 30px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2224-4
+{
+	z-index: 13;
+	width: 164px;
+	min-height: 9px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 61px;
+}
+
+#u2225-4
+{
+	z-index: 17;
+	width: 160px;
+	min-height: 6px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 228px;
+}
+
+#u2225-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 6px;
+	width: 160px;
+	margin: 8px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

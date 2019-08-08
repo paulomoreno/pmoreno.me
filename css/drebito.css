@@ -1,0 +1,382 @@
+.version.drebito /* version checker */
+{
+	color: #00001A;
+	background-color: #5258E0;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 499.67500000000007px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -20px;
+	margin-bottom: -31px;
+	width: 0.01px;
+}
+
+#pu2882
+{
+	width: 0.01px;
+	margin-left: 20px;
+}
+
+#u2882
+{
+	z-index: 3;
+	width: 40px;
+	height: 40px;
+	margin-right: -10000px;
+}
+
+#u2889
+{
+	z-index: 9;
+	width: 77px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 733px;
+}
+
+#u2889_states
+{
+	height: 25px;
+	width: 77px;
+}
+
+#u2888
+{
+	z-index: 5;
+	width: 78px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 844px;
+}
+
+#u2888_states
+{
+	height: 24px;
+	width: 78px;
+}
+
+#pu2315
+{
+	width: 0.01px;
+	margin-left: 291px;
+	margin-top: 42px;
+}
+
+#u2315
+{
+	z-index: 25;
+	width: 170px;
+	height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/logo2.png") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #u2315
+{
+	background-image: url("../images/logo_2x2.png");
+}
+
+#u2316
+{
+	z-index: 26;
+	width: 1px;
+	height: 60px;
+	background-color: #242424;
+	position: relative;
+	margin-right: -10000px;
+	left: 189px;
+}
+
+#u2314-4
+{
+	z-index: 21;
+	width: 170px;
+	min-height: 28px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 209px;
+}
+
+#pu2322
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 10px;
+}
+
+#u2322
+{
+	z-index: 34;
+	height: 40px;
+	background-color: #22B573;
+	opacity: 0.88;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=88)";
+	filter: alpha(opacity=88);
+}
+
+#u2322-bw
+{
+	z-index: 34;
+	height: 40px;
+}
+
+#u2323-4
+{
+	z-index: 35;
+	width: 32px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 508px;
+}
+
+#u2324-4
+{
+	z-index: 39;
+	width: 60px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 547px;
+}
+
+#u2325-4
+{
+	z-index: 43;
+	width: 36px;
+	min-height: 3px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: asap, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 616px;
+}
+
+#u2326-4
+{
+	z-index: 47;
+	width: 920px;
+	min-height: 5px;
+	background-color: transparent;
+	color: #242424;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	font-family: Courier New, Courier, monospace;
+	margin-left: 20px;
+	margin-top: 30px;
+	position: relative;
+}
+
+#pu2320
+{
+	width: 0.01px;
+	margin-left: 224px;
+	margin-top: 55px;
+}
+
+#u2320
+{
+	z-index: 29;
+	width: 150px;
+	height: 263px;
+	border-style: none;
+	border-color: transparent;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/dreb%2003-ieu2320-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/dreb%2003.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+.hidpi #u2320
+{
+	background-image: url("../images/dreb%2003_2x.jpg");
+}
+
+#u2318
+{
+	z-index: 27;
+	width: 150px;
+	height: 263px;
+	border-style: none;
+	border-color: transparent;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 182px;
+	background: transparent url("../images/captura%20de%20tela%202014-04-05%20%c3%a0s%20014932-ieu2318-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/captura%20de%20tela%202014-04-05%20%c3%a0s%20014932.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+.hidpi #u2318
+{
+	background-image: url("../images/captura%20de%20tela%202014-04-05%20%c3%a0s%20014932_2x.jpg");
+}
+
+#u2319
+{
+	z-index: 28;
+	width: 150px;
+	height: 263px;
+	border-style: none;
+	border-color: transparent;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 364px;
+	background: transparent url("../images/drebito02-ieu2319-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/drebito02.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+.hidpi #u2319
+{
+	background-image: url("../images/drebito02_2x.jpg");
+}
+
+#u2321-4
+{
+	z-index: 30;
+	width: 514px;
+	min-height: 6px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	font-size: 12px;
+	color: #242424;
+	font-family: asap, sans-serif;
+	font-weight: 400;
+	margin-left: 224px;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u2940
+{
+	z-index: 12;
+	width: 82px;
+	min-height: 50px;
+	margin-left: 20px;
+	margin-top: 7px;
+}
+
+#pu2249
+{
+	width: 0.01px;
+	margin-left: 256px;
+	margin-top: 6px;
+}
+
+#u2249
+{
+	z-index: 2;
+	width: 58px;
+	height: 30px;
+	margin-right: -10000px;
+}
+
+#u2249:hover
+{
+	width: 58px;
+	height: 30px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2224-4
+{
+	z-index: 13;
+	width: 164px;
+	min-height: 9px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 61px;
+}
+
+#u2225-4
+{
+	z-index: 17;
+	width: 160px;
+	min-height: 6px;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 228px;
+}
+
+#u2225-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 6px;
+	width: 160px;
+	margin: 9px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
